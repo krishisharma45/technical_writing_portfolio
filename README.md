@@ -1,98 +1,81 @@
 # Technical Writing Portfolio
+This portfolio is designed to highlight my technical writing capabilities. I tailor content based on the intended audience. The compilation featured here comes from 4 years of experience in the AI industry. During this time, I wrote several pages of documentation to accomplish different objectives, but because most of that work was for internal use, they are not featured here.
 
-- introduce yourself and the intent of this portfolio
-- give your experience in AI, and the materials you have produced over the course of your career
-- talk about your approach to gathering the requirements and writing these samples; "I believe..."
-- discuss the three main sections and what they correspond to: 1. publicly available technical writing: your publicly available work, including conference talk outlines, blog posts, and github repos for personal projects  2. samples reflecting the kind of technical writing you've done at the job by are not publicly accessible; emphasize that you made these on your own to reflect what you did on the day to day  3. public videos upi made that capture the nature of internal technical documentation behind a private Confluence and demonstrate your ability to boil down complex jargon
+Instead, this portfolio features work that I have created on my own time to show the style of my professional work and work that I created for personal initiatives. These works are split across three main sections:
 
-## Private Works
+[Documentation for APIs, LLMs and CLIs](#software-documentation)
+[Content for Technical Audiences](#software-content)
+[Videos for non-technical audiences](#software-videos)
 
-- this is a collection that reflects the type of writing that I have done for internal engineers
-- I collaborated with software engineers, key stakeholders and executives to create software documentation on APIs, CLIs, LLMs, and software applications
-- these are merely samples of the original work, as the original copies or the property of the companies I had worked for. I have created these samples myself separately and removed any identifying factors of what the original applications were for proprietary reasons.
+For more questions, feel free to contact me through my [LinkedIn](https://www.linkedin.com/in/krishisharma/)
 
-Code/clairity/allix5/readme.md
+## Software Documentation
+This collection features writing similar to actual documentation that I have produced in collaboration with machine learning engineers, project managers, product owners and executives for APIs, CLIs and LLMs. 
 
-Code/dos_cable_pilot/readme.md
+The intention behind these documents, or READMEs, was to communicate the information necessary to quickly get started with using the software application or amend it over time. The main audience was other engineers who were working on the project and non-technical clients that would later use the AI applications.
 
-Code/potluck-python/readme.md
+[Tensorflow Application](https://www.google.com)
+[LLM Application](https://www.google.com)
+[CLI Tool](https://www.google.com)
+[API and DB Application](https://www.google.com)
 
-Code/the_celeris_project/readme.md
-s
-
-## Public Works
-
-- this is a collection of works that can be found via the internet
+## Software Content
+This collection features publicly accessible documents that I penned for conferences and papers, as well as for applications that I personally created. 
 
 ### Conference Talks
+The goal for these submissions was to let technical audience members at Python conferences know what to expect from my talk. The audience included software developers, data analysts, Python enthusiasts and tech adjacent jobs like projects managers and HR.
 
-- the goal of this body of writing was to give conference members of PyData and PyCon a general idea as to what the talk was going to be about
-- the audience was for mainly software developers, data analysts, Python enthusiasts, but also tech adjacent jobs like project managers and HR
-- the intention was to attract people interested in topics that I've worked deeply on in the AI industry, sucha as model transparency and data privacy oriented training techniques
+The intention was to attract people who were interested in learning about AI tools that help with areas that I am passionate about, such as model transparency and data privacy.
 
-https://nyc2023.pydata.org/cfp/talk/JX7SYC/
-https://www.youtube.com/watch?v=ju5NT3fqoPw&t=1s
+[PyData NYC 2023 Submission](https://nyc2023.pydata.org/cfp/talk/JX7SYC/)
+[PyData NYC 2023 Talk](https://www.youtube.com/watch?v=ju5NT3fqoPw&t=1s)
 
-https://amsterdam2023.pydata.org/cfp/talk/WTEANG/
-https://www.youtube.com/watch?v=8njnK_nexEw&t=246s
+[PyData Amsterdam 2023 Submission](https://amsterdam2023.pydata.org/cfp/talk/WTEANG/)
+[PyData Amsterdam 2023 Talk](https://www.youtube.com/watch?v=8njnK_nexEw&t=246s)
 
-https://seattle2023.pydata.org/cfp/talk/SRMWCH/
-https://www.youtube.com/watch?v=9Tl5fcRr0ng
+[PyData Seattle 2023 Submission](https://seattle2023.pydata.org/cfp/talk/SRMWCH/)
+[PyData Seattle 2023 Talk](https://www.youtube.com/watch?v=9Tl5fcRr0ng)
 
-https://seattle2023.pydata.org/cfp/talk/3HSAHF/
-https://www.youtube.com/watch?v=LMoZTMZLp4U&t=171s
+[PyData Seattle 2023 Submission](https://seattle2023.pydata.org/cfp/talk/3HSAHF/)
+[PyData Seattle 2023 Talk](https://www.youtube.com/watch?v=LMoZTMZLp4U&t=171s)
 
-https://www.youtube.com/watch?v=mkDYySbT1xU
-
+[PyTexas 2023 Talk](https://www.youtube.com/watch?v=mkDYySbT1xU)
 
 ### Papers
+These following works were written for very different audiences. 
 
-- the goal of this body of writing was to write for niche audiences
+** AI Blog Post **
+The blog post below was written for non-technical executives interested in learning more about how to adopt AI in red-taped industries such as healthcare and finance. 
 
-#### Blog Post
+I worked for two years using an innovative technique developed by Google called Federated Learning and wanted to shed light on its ability to bring AI into regulated arenas.
 
-- this blog was geared towards non-technical executives that wanted to learn about how they can adopt AI in red-taped industries which have data privacy regulations (such as healthcare and finance)
-- the point of the paper was to shed light on an innovative technique developed by Google called Federeated Learning
+[Innovation in the Age of Regulation: Building AI with Federated Learning](https://www.kungfu.ai/blog-post/innovation-in-the-age-of-regulation-building-ai-with-federated-learning)
 
-https://www.kungfu.ai/blog-post/innovation-in-the-age-of-regulation-building-ai-with-federated-learning
+** Big Data Scaling Notebook **
+This Jupyter notebook was written for students at a machine learning bootcamp that wanted to learn how to use Apache Spark. It is commented to help guide people through the code.
 
-https://github.com/krishisharma45/springboard-projects/blob/master/Mini_Project_Data_Wrangling_at_Scale_with_Spark.ipynb
+[Data Wrangling at Scale with Apache Spark](https://github.com/krishisharma45/springboard-projects/blob/master/Mini_Project_Data_Wrangling_at_Scale_with_Spark.ipynb)
 
-#### Research Paper
+** AI Research Paper **
+The research paper was written for a deeply technical audience including AI researchers and machine learning engineers. I helped edit this research paper and wrote some of the software specific pieces of the research findings conducted by my team. 
 
-- this paper was written for deeply technical research-oriented people who wanted to learn about how to use Federated Learning in a serverless manner
-- the audience was for machine learning engineers and AI researchers who were already familiar with deep learning and wanted to learn more about how to use an open source library, Flower, in a serverless manner (flwr-serverless)
+[Flower Serverless Research Paper](https://arxiv.org/pdf/2310.15329.pdf)
 
-https://arxiv.org/pdf/2310.15329.pdf
+### Personal Projects
+For each software application that I have built on my own time, I have included documentation about how the application was built and how to run the application on a different computer. The main audience was for external users, software engineers or students interested in learning how to build applications using Python and JavaScript.
 
+[AI Capstone Project](https://github.com/krishisharma45/capstone-project)
+[API for WebApp](https://github.com/krishisharma45/stronghona)
+[React for Personal Website](https://github.com/krishisharma45/stronghona)
+[React and CSS for Wedding Website](https://github.com/krishisharma45/event-planning-frontend)
+[Federated Learning Demo](https://github.com/krishisharma45/federated_learning_demo)
+[MLFlow Demo](https://github.com/krishisharma45/mlflow_hidden_gems)
 
-### GitHub Repos
+## Software Videos
+After leaving my previous job for a break from software engineering, I made videos about the things that I learned along my software engineering journey. I am passionate about teaching and helping new software engineers and students learn software without dealing with all the jargon.
 
-- the goal of this body of work was to provide an overview of the different software packages and applications that I built 
-- the main audience was for external users software engineers or students interested in learning how to use or work with the software itself
-- the intention was to make it as easy as possible for people to get the application running and provide them with commands to make their life easier using a containerization technology called Docker. Some of the repos include Jupyter notebooks, which have commented sections explaining what the point of each section was
+I wrote the script behind each of these videos and found analogies that helped me understand the concepts when I started out. The intended audience is for anyone with a desire to make life easier with nifty software tools and concepts.
 
-https://github.com/krishisharma45/federated_learning_demo
-
-https://github.com/krishisharma45/stronghona
-
-https://github.com/krishisharma45/krishisharma.com
-
-https://github.com/krishisharma45/mlflow_hidden_gems
-
-https://github.com/krishisharma45/capstone-project
-
-https://github.com/krishisharma45/event-planning-frontend
-
-
-## Technical Videos
-
-- these are videos that I made on my own time as a passion to help new software engineers and students learn more about technologies used on the day to day, without any of the technical jargon that can make the material confusing for new learners
-- I wrote the script behind each of these videos and worked to find analogies to simplify some of the concepts 
-- the goal was to teach others and to show how these seemingly complex technologies are quite accessible to people who are new to software engineering
-- the intended audience was the public: college students, starting software engineers, technical recruiting professionals that want to learn software terms, etc.
-
-https://www.youtube.com/watch?v=bBu7oflrWLY&t=34s
-https://www.youtube.com/watch?v=Irrac3LtlZc
-https://www.youtube.com/watch?v=VPfxmtkPmWU&t=4s
-
+[What’s Docker and Should I Use It](https://www.youtube.com/watch?v=VPfxmtkPmWU&t=4s)
+[What’s a Dockerfile and How To Use It](https://www.youtube.com/watch?v=Irrac3LtlZc)
+[Debugging a Docker Issue](https://www.youtube.com/watch?v=bBu7oflrWLY&t=34s)
