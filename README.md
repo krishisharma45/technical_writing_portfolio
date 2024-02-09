@@ -14,10 +14,10 @@ This collection features writing similar to actual documentation that I have pro
 
 The intention behind these documents, or READMEs, was to communicate the information necessary to quickly get started with using the software application or amend it over time. The main audience was other engineers who were working on the project and non-technical clients that would later use the AI applications.
 
-* [Tensorflow Application](https://www.google.com)
-* [LLM Application](https://www.google.com)
-* [CLI Tool](https://www.google.com)
-* [API and DB Application](https://www.google.com)
+* [Tensorflow Application](https://github.com/krishisharma45/technical_writing_portfolio/blob/main/software_documentation/tensorflow_application_readme.md)
+* [LLM Application](https://github.com/krishisharma45/technical_writing_portfolio/blob/main/software_documentation/llm_application_readme.md)
+* [CLI Tool](https://github.com/krishisharma45/technical_writing_portfolio/blob/main/software_documentation/cli_tool_readme.md)
+* [API and DB Application](https://github.com/krishisharma45/technical_writing_portfolio/blob/main/software_documentation/api_db_application_readme.md)
 
 ## Software Content
 This collection features publicly accessible documents that I penned for conferences and papers, as well as for applications that I personally created. 
